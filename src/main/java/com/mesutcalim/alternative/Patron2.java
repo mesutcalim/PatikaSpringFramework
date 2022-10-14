@@ -2,7 +2,7 @@ package com.mesutcalim.alternative;
 
 import jakarta.enterprise.inject.Alternative;
 
-@Alternative
+@Alternative //sadece 1 adet alternative class çalışıyor diğeri kapalı
 public class Patron2 implements PatronInterface {
 
     @Override
