@@ -1,4 +1,4 @@
-package com.mesutcalim.qualifier;
+package com.mesutcalim.qualifier2;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;

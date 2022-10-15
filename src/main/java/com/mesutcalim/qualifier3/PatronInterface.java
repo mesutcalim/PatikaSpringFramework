@@ -1,7 +1,4 @@
-package com.mesutcalim.qualifier;
-
-import jakarta.enterprise.inject.Alternative;
-import jakarta.inject.Qualifier;
+package com.mesutcalim.qualifier3;
 
 public interface PatronInterface {
     //@Alternative // Aynı anda sadece 1 adet sınıf çalışabilir.

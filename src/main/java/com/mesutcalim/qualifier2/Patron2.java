@@ -1,4 +1,4 @@
-package com.mesutcalim.qualifier;
+package com.mesutcalim.qualifier2;
 
 @QualifierMultiple
 public class Patron2 implements PatronInterface {

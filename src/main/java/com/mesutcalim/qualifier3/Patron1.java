@@ -1,4 +1,4 @@
-package com.mesutcalim.qualifier;
+package com.mesutcalim.qualifier3;
 
 import jakarta.enterprise.inject.Default;
 
