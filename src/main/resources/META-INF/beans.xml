@@ -13,4 +13,6 @@
     <interceptors>
         <class>com.mesutcalim.aop.interceptor.InterceptorYolKesiciAsilIs</class>
     </interceptors>
+
+    <decorators><class>com.mesutcalim.aop.decorator.EvDecorator</class></decorators>
 </beans>
