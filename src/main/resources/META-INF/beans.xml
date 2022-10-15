@@ -9,4 +9,8 @@
         <class>com.mesutcalim.alternative.Patron1</class>
         <!--<class>com.mesutcalim.alternative.Patron2</class>-->
     </alternatives>
+
+    <interceptors>
+        <class>com.mesutcalim.aop.interceptor.InterceptorYolKesiciAsilIs</class>
+    </interceptors>
 </beans>
